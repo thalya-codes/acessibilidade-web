@@ -1,6 +1,6 @@
 # Acessibilidade Web
-Materiais gratuitos para aprender sobre acessibilidade web e digital
-</br></br></br></br>
+Palestras e artigos para aprender sobre acessibilidade web
+</br></br>
 <ul>
   <li><strong><a href="https://blog.handtalk.me/" target="_blank">Blog do Hugo - Hand talk:</a></strong></li>
   <br/><br/>
