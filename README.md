@@ -11,6 +11,8 @@ Materiais gratuitos para aprender sobre acessibilidade web e digital
 </a></strong> </li><br/></br>
   <li><strong><a href="https://www.youtube.com/watch?v=H8MhWDBYZ9w" target="_blank">iMasters Web Semântica - Acessibilidade Web para deficientes visuais com Guilherme Caçador:</a></strong> </li><br/></br>
   <li><strong><a href="https://www2.ufjf.br/treinamentoscgco/docs/sites-institucionais/acessibilidade-na-web/" target="_blank">Artigos UFJF - Acessibilidade Web:</a></strong> </li><br/>
+    <li><strong><a href="https://mwpt.com.br/blog/" target="_blank">Blog Web para todos
+</a></strong> </li><br/>
 </ul>
 
   
