@@ -1,5 +1,5 @@
-# Acessibilidade Web
-Palestras e artigos para aprender sobre acessibilidade web
+# Acessibilidade Web - Palestras e Artigos úteis
+
 </br></br>
 <ul>
   <li><strong><a href="https://blog.handtalk.me/" target="_blank">Blog do Hugo - Hand talk:</a></strong></li>
