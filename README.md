@@ -13,6 +13,10 @@
   <li><strong><a href="https://www2.ufjf.br/treinamentoscgco/docs/sites-institucionais/acessibilidade-na-web/" target="_blank">Artigos UFJF - Acessibilidade Web:</a></strong> </li><br/><br/>
     <li><strong><a href="https://mwpt.com.br/blog/" target="_blank">Blog Web para todos
 </a></strong> </li><br/>
+    <li><strong><a href="https://open.spotify.com/episode/4z2mCJyKVPA1BE7aCenS4K" target="_blank"> Acessibilidade no ecossistema de programação - Podcast FalaDev
+</a></strong> </li><br/>
+    <li><strong><a href="https://www.youtube.com/watch?v=RjpvOqZigao" target="_blank"> Understanding Accessibility: WCAG’s 13 Guidelines with Kasey Bonifacio - Sparkbox
+</a></strong> </li><br/>
 </ul>
 
   
