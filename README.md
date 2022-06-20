@@ -1,5 +1,5 @@
 # Acessibilidade Web - Palestras e Artigos úteis
-
+<br/>
 E aí devs, como vocês estão?
 
 É muito importante quando desenvolvemos um site ou um aplicativo termos em mente que ele irá ser utilizado por diversas pessoas e que é essencial garantir que todas possam usufruir do produto que está sendo oferecido com <strong>autonomia</strong>.
@@ -24,7 +24,7 @@ Pensando nisso eu listei alguns materiais gratuitos que irão te ajudar a compre
 </a></strong> </li><br/><br/>
     <li><strong><a href="https://www.youtube.com/watch?v=RjpvOqZigao" target="_blank">⭐ Udemy - Tecnologias na Autonomia da Pessoa com Deficiência
 </a></strong> </li><br/>
-</a></strong> </li><br/><br/>
+</a></strong> </li>
     <li><strong><a href="https://mwpt.com.br/blog/" target="_blank">⭐ Blog do Movimento Web para Todos</a></strong> </li><br/>
 </ul>
 
