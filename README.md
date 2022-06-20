@@ -21,6 +21,8 @@ Pensando nisso eu listei alguns materiais gratuitos que irão te ajudar a compre
     <li><strong><a href="https://open.spotify.com/episode/4z2mCJyKVPA1BE7aCenS4K" target="_blank">⭐Podcast FalaDev - Acessibilidade no ecossistema de programação
 </a></strong> </li><br/>
     <li><strong><a href="https://www.youtube.com/watch?v=RjpvOqZigao" target="_blank">⭐Sparkbox - Understanding Accessibility: WCAG’s 13 Guidelines with Kasey Bonifacio
+</a></strong> </li><br/><br/>
+    <li><strong><a href="https://www.youtube.com/watch?v=RjpvOqZigao" target="_blank">⭐ Udemy - Tecnologias na Autonomia da Pessoa com Deficiência
 </a></strong> </li><br/>
 </ul>
 
