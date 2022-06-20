@@ -1,9 +1,9 @@
 # Acessibilidade Web - Palestras e Artigos úteis
 <br/>
 E aí devs, como vocês estão?
-<br/>
+<br/><br/>
 É muito importante quando desenvolvemos um site ou um aplicativo termos em mente que ele irá ser utilizado por diversas pessoas e que é essencial garantir que todas possam usufruir do produto que está sendo oferecido com <strong>autonomia</strong>.
-
+</br></br>
 Pensando nisso eu listei alguns materiais gratuitos que irão te ajudar a compreender um pouco sobre <strong> o que é acessibilidade</strong> e como deixar seus próximos projetos mais acessíveis e inclusivos. ❤👩‍💻🌻
 
 </br></br>
