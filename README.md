@@ -24,6 +24,8 @@ Pensando nisso eu listei alguns materiais gratuitos que irão te ajudar a compre
 </a></strong> </li><br/><br/>
     <li><strong><a href="https://www.youtube.com/watch?v=RjpvOqZigao" target="_blank">⭐ Udemy - Tecnologias na Autonomia da Pessoa com Deficiência
 </a></strong> </li><br/>
+</a></strong> </li><br/><br/>
+    <li><strong><a href="https://mwpt.com.br/blog/" target="_blank">⭐ Blog do Movimento Web para Todos</a></strong> </li><br/>
 </ul>
 
 
